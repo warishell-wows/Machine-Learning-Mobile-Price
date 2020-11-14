@@ -1,2 +1,2 @@
-# Neural-Network-Mobile-Price
-Neural Network on Simple Mobile Price Problem
+# Neural Network and Random Forest
+Neural Network and Random Forest on Simple Mobile Price Problem
